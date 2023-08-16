@@ -1,0 +1,9 @@
+#bab {
+    font-size: 36px; color: rgb(15, 15, 255);
+}
+.same {
+    background-color: rgb(255, 141, 160);font-family: Verdana, "Dejavu Sans", sans-serif;
+}
+#another {
+    font-size: 24px; font-weight: bold; background-color: rgb(117, 250, 117);
+}
